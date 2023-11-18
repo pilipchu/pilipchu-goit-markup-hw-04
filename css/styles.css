@@ -539,7 +539,7 @@ height: 100%;
     flex-direction: column;
     width: 294px;
     margin-right: 120px;
-    align-items: baseline;
+
 }
 
 .social-media {
@@ -555,4 +555,9 @@ height: 100%;
 
 .last {
     display: flex;
+    align-items: baseline;
+}
+
+.icon-social-floor {
+fill: #f4f4fd;
 }
